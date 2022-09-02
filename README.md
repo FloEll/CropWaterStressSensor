@@ -7,4 +7,4 @@ Due to climate change, droughts and dry periods will become more frequent. The c
 
 The Crop Water Stress Sensor is designed to intuitively show the often non-obvious water stress of our crops while collecting valuable time series data on an SD card. Using a low-cost thermal imaging camera (MLX90640), plant surface temperatures are recorded and the Crop Water Stress Index (CWSI) is calculated. The results of the CWSI are shown on the display as current measurement, daily average, 14-day retrospective and 5-day trend and on a “traffic light” that indicates plant stress.
 
-![overview](https://github.com/FloEll/CropWaterStressSensor/Overview_picture.png)
+![overview](https://github.com/FloEll/CropWaterStressSensor/blob/main/Overview_picture.png)
